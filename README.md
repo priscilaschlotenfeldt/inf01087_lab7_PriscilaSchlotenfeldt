@@ -5,8 +5,7 @@ Nome: Priscila Schlotenfeldt
 Curso: Ciência da Computação
 Disciplina: INF01087
 
-
-/section
+<section>
 Sobre mim: 
 
 🎓 B.Sc. in Computer Science (in progress) — Federal University of Rio Grande do Sul (UFRGS)
@@ -16,3 +15,4 @@ Sobre mim:
 🎯 Open to any job opportunities in tech
 
 📌 Focused and always evolving — improving my skills and experimenting with new ideas through projects.
+</section>

@@ -6,6 +6,7 @@ Curso: Ciência da Computação
 Disciplina: INF01087
 
 
+/section
 Sobre mim: 
 
 🎓 B.Sc. in Computer Science (in progress) — Federal University of Rio Grande do Sul (UFRGS)

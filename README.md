@@ -16,3 +16,7 @@ Sobre mim:
 
 📌 Focused and always evolving — improving my skills and experimenting with new ideas through projects.
 </section>
+
+##Projeto
+
+Este é um projeto de INTROCIC 2026/1 utilizando a ferramenta github
